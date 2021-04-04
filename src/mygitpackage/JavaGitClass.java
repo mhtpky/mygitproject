@@ -15,5 +15,8 @@ public class JavaGitClass {
 		System.out.println("12. satir UZAK SUNUCU");
 
 		System.out.println("17. satir Bilgisayarim");
+
+		System.out.println("16. satir UZAK SUNUCU");
+
 	}
 }
