@@ -9,6 +9,10 @@ public class JavaGitClass {
 		System.out.println("My 5th commit");
 		System.out.println("Uzak sunucuda ki kodlarim");
 		System.out.println("Yeni bir satir");
+		
 		System.out.println("12. satir BILGISAYARIM");
+	
+		System.out.println("12. satir UZAK SUNUCU");
+
 	}
 }
