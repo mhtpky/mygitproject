@@ -11,6 +11,7 @@ public class JavaGitClass {
 		System.out.println("Yeni bir satir");
 
 		System.out.println("12. satir BILGISAYARIM");
-		System.out.println("mhtp branch'inde yazdigim kodlar");
-	}
+		System.out.println("mhtp branch'inde yazdigim kodlar 14.satir");
+		System.out.println("mhtp branch'inde yazdigim kodlar 15. satir");
+		System.out.println("mhtp branch'inde yazdigim kodlar 16.satir");
 }
